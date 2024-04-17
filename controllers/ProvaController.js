@@ -33,5 +33,4 @@ const ProvaController = {
         }
     }
 }
-
 module.exports = ProvaController

@@ -20,4 +20,5 @@ router.get('/prova/:id', (req, res) => ProvaController.get(req, res))
 router.put('/prova/:id', (req, res) => ProvaController.update(req, res))
 router.delete('/prova/:id', (req, res) => ProvaController.delete(req, res))
 
+
 module.exports = router
